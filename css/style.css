@@ -2,6 +2,19 @@ div {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 5px;
+}
+
+#third  > span {
+    visibility: hidden;
+}
+
+.right > p {
+    display: none;
+}
+
+h1 {
+    color: blue;
 }
 
 .container {
@@ -9,7 +22,7 @@ div {
 }
 
 .left {
-    color: blue;
+    color: brown;
 }
 
 .right {
