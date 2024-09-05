@@ -19,7 +19,8 @@ h1 {
 h2 {
     font-size: 2.5em;
     color: burlywood;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 
 img {
@@ -43,5 +44,16 @@ li {
     height: auto;
     border-radius: 1%;
     box-shadow: 3px 3px 3px rgb(217, 217, 217);
+}
+#smallbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+span {
+    color: sandybrown;
+    text-align: center;
+  
 }
 
