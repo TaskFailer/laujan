@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     background-color: white;
+    box-sizing: border-box;
 }
 
 p {
@@ -11,4 +12,16 @@ p {
 
 h1 {
     font-size: 3.5em;
+    color: burlywood;
+    box-shadow: 5px 5px 5px rgb(217, 217, 217);
+    padding: 3px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+img {
+    width: 100%;
+    height: auto;
+    padding: 3px;;
+    border-radius: 1%;
+    box-shadow: 3px 3px 3px rgb(217, 217, 217);
 }
