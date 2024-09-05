@@ -31,33 +31,33 @@ h1 {
 }
 
 .left {
-    color: rgb(100, 56, 56);
+    background-color: rgb(100, 56, 56);
 }
 
 .right {
-    color: rgb(84, 76, 199);
+    background-color: rgb(84, 76, 199);
 }
 
 #first {
-    color: green;
+    background-color: green;
 }
 
 #second {
-    color: purple;
+    background-color: purple;
 }
 
 #third {
-    color: yellow;
+    background-color: yellow;
 }
 
 #fourth {
-    color: cyan;
+    background-color: cyan;
 }
 
 #fifth {
-    color: chartreuse;
+    background-color: chartreuse;
 }
 
 #sixth {
-    color: fuchsia;
+    background-color: fuchsia;
 }
