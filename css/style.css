@@ -18,9 +18,13 @@ p {
     visibility: hidden;
 }
 
-.right > p {
-    display: none;
+#third > p {
+    background-color: rgb(225, 225, 139);
 }
+
+/* .right > p {
+    display: none;
+} */
 
 h1 {
     color: blue;
