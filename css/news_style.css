@@ -2,7 +2,7 @@
     padding:0;
     margin-left: 5px;
     margin-right: 5px;
-    
+    background-color: white;
     box-sizing: border-box;
 }
 
@@ -52,13 +52,10 @@ li {
     
 }
 #centertext {
-   
     text-align: center;
-    
+    font-size: .9em;
+    font-weight: bold;
+
 }
-span {
-    color: sandybrown;
-    
-  
-}
+
 
