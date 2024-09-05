@@ -5,6 +5,15 @@ div {
     margin: 5px;
 }
 
+img {
+    width: 300px;
+    height: 300px;
+}
+
+p {
+    color: red;
+}
+
 #third  > span {
     visibility: hidden;
 }
@@ -22,11 +31,11 @@ h1 {
 }
 
 .left {
-    color: brown;
+    color: rgb(100, 56, 56);
 }
 
 .right {
-    color: red;
+    color: rgb(84, 76, 199);
 }
 
 #first {
