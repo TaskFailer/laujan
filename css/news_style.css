@@ -51,9 +51,14 @@ li {
     align-items: center;
     
 }
+#centertext {
+   
+    text-align: center;
+    
+}
 span {
     color: sandybrown;
-    text-align: center;
+    
   
 }
 
